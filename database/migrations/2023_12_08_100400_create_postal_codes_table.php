@@ -8,16 +8,16 @@ return new class extends Migration
 {
     public function up(): void
     {
-        Schema::create('villages', function (Blueprint $table) {
+        Schema::create('postal_codes', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('district_id')->constrained()->cascadeOnDelete();
-            $table->string('name');
+            $table->foreignId('village_id')->constrained()->cascadeOnDelete();
+            $table->string('code');
             $table->timestamps();
         });
     }
 
     public function down(): void
     {
-        Schema::dropIfExists('villages');
+        Schema::dropIfExists('postal_codes');
     }
 };

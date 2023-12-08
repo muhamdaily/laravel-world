@@ -21496,62 +21496,184 @@ class CitySeeder extends Seeder
             array('name' => "Langsa", 'state_id' => 1666),
             array('name' => "Lhokseumawe", 'state_id' => 1666),
             array('name' => "Meulaboh", 'state_id' => 1666),
-            array('name' => "Denpasar", 'state_id' => 1667),
-            array('name' => "Karangasem", 'state_id' => 1667),
-            array('name' => "Klungkung", 'state_id' => 1667),
+            array('name' => "Karangasem", 'state_id' => 1667),            
             array('name' => "Kuta", 'state_id' => 1667),
             array('name' => "Negara", 'state_id' => 1667),
             array('name' => "Singaraja", 'state_id' => 1667),
-            array('name' => "Tabanan", 'state_id' => 1667),
             array('name' => "Ubud", 'state_id' => 1667),
-            array('name' => "Manggar", 'state_id' => 1668),
-            array('name' => "Mentok", 'state_id' => 1668),
-            array('name' => "Pangkal Pinang", 'state_id' => 1668),
-            array('name' => "Sungai Liat", 'state_id' => 1668),
-            array('name' => "Tanjung Pandan", 'state_id' => 1668),
-            array('name' => "Toboali-Rias", 'state_id' => 1668),
-            array('name' => "Cikupa", 'state_id' => 1669),
-            array('name' => "Cilegon", 'state_id' => 1669),
-            array('name' => "Ciputat", 'state_id' => 1669),
-            array('name' => "Curug", 'state_id' => 1669),
-            array('name' => "Kresek", 'state_id' => 1669),
-            array('name' => "Labuhan", 'state_id' => 1669),
-            array('name' => "Pandegelang", 'state_id' => 1669),
-            array('name' => "Pondok Aren", 'state_id' => 1669),
-            array('name' => "Rangkasbitung", 'state_id' => 1669),
-            array('name' => "Serang", 'state_id' => 1669),
-            array('name' => "Serpong", 'state_id' => 1669),
-            array('name' => "Tangerang", 'state_id' => 1669),
-            array('name' => "Teluknaga", 'state_id' => 1669),
-            array('name' => "Bengkulu", 'state_id' => 1670),
-            array('name' => "Curup", 'state_id' => 1670),
-            array('name' => "Gandaria", 'state_id' => 1671),
-            // begin::Kota Pada Provinsi Gorontalo
-            array('name' => "Gorontalo", 'state_id' => 1672),
-            // end::Kota Pada Provinsi Gorontalo
-            // begin::Kota Pada Provinsi Jakarta
-            array('name' => "Cengkareng", 'state_id' => 1673),
-            array('name' => "Jakarta", 'state_id' => 1673),
-            // end::Kota Pada Provinsi Jakarta
-            // begin::Kota Pada Provinsi Jambi
-            array('name' => "Jambi", 'state_id' => 1674),
-            array('name' => "Kualatungka", 'state_id' => 1674),
-            array('name' => "Simpang", 'state_id' => 1674),
-            array('name' => "Sungaipenuh", 'state_id' => 1674),
-            // end::Kota Pada Provinsi Jambi
-            array('name' => "Bandung", 'state_id' => 1675),
-            array('name' => "Bandung Barat", 'state_id' => 1675),
-            array('name' => "Bekasi", 'state_id' => 1675),
-            array('name' => "Bandung", 'state_id' => 1675),
-            array('name' => "Bandung", 'state_id' => 1675),
-            array('name' => "Bandung", 'state_id' => 1675),
-            array('name' => "Bandung", 'state_id' => 1675),
-            // begin::Kota Pada Provinsi Jawa Barat
-            // end::Kota Pada Provinsi Jawa Barat
-            // begin::Kota Pada Provinsi Jawa Tengah
-            // end::Kota Pada Provinsi Jawa Tengah
-            // begin::Kota Pada Provinsi Jawa Timur
-            // end::Kota Pada Provinsi Jawa Timur
+
+            // begin::City for State Bali
+            array('name' => "Kabupaten Badung", 'state_id' => 1668),
+            array('name' => "Kabupaten Bangli", 'state_id' => 1668),
+            array('name' => "Kabupaten Buleleng", 'state_id' => 1668),
+            array('name' => "Kabupaten Gianyar", 'state_id' => 1668),
+            array('name' => "Kabupaten Jembrana", 'state_id' => 1668),
+            array('name' => "Kabupaten Karangasem", 'state_id' => 1668),
+            array('name' => "Kabupaten Klungkung", 'state_id' => 1668),
+            array('name' => "Kabupaten Tabanan", 'state_id' => 1668),
+            array('name' => "Kota Denpasar", 'state_id' => 1668),
+            // end::City for State Bali
+
+            // begin::City for Bangka Belitung
+            array('name' => "Kabupaten Bangka", 'state_id' => 1669),
+            array('name' => "Kabupaten Bangka Barat", 'state_id' => 1669),
+            array('name' => "Kabupaten Bangka Selatan", 'state_id' => 1669),
+            array('name' => "Kabupaten Bangka Tengah", 'state_id' => 1669),
+            array('name' => "Kabupaten Belitung", 'state_id' => 1669),
+            array('name' => "Kabupaten Belitung Timur", 'state_id' => 1669),
+            array('name' => "Kota Pangkalpinang", 'state_id' => 1669),
+            // end::City for Bangka Belitung
+            
+            // begin::City for Banten
+            array('name' => "Kabupaten Lebak", 'state_id' => 1670),
+            array('name' => "Kabupaten Pandeglang", 'state_id' => 1670),
+            array('name' => "Kabupaten Serang", 'state_id' => 1670),
+            array('name' => "Kabupaten Tangerang", 'state_id' => 1670),
+            array('name' => "Kota Cilegon", 'state_id' => 1670),
+            array('name' => "Kota Serang", 'state_id' => 1670),
+            array('name' => "Kota Tangerang", 'state_id' => 1670),
+            array('name' => "Kota Tangerang Selatan", 'state_id' => 1670),
+            // end::City for Banten
+            
+            // begin::City for Bengkulu
+            array('name' => "Kabupaten Bengkulu Selatan", 'state_id' => 1671),
+            array('name' => "Kabupaten Bengkulu Tengah", 'state_id' => 1671),
+            array('name' => "Kabupaten Bengkulu Utara", 'state_id' => 1671),
+            array('name' => "Kabupaten Kaur", 'state_id' => 1671),
+            array('name' => "Kabupaten Kepahiang", 'state_id' => 1671),
+            array('name' => "Kabupaten Lebong", 'state_id' => 1671),
+            array('name' => "Kabupaten Mukomuko", 'state_id' => 1671),
+            array('name' => "Kabupaten Rejang Lebong", 'state_id' => 1671),
+            array('name' => "Kabupaten Seluma", 'state_id' => 1671),
+            array('name' => "Kota Bengkulu", 'state_id' => 1671),
+            // end::City for Bengkulu
+            
+            // begin::City for Daerah Istimewa Yogyakarta
+            array('name' => "Kabupaten Bantul", 'state_id' => 1672),
+            array('name' => "Kabupaten Gunungkidul", 'state_id' => 1672),
+            array('name' => "Kabupaten Kulon Progo", 'state_id' => 1672),
+            array('name' => "Kabupaten Sleman", 'state_id' => 1672),
+            array('name' => "Kota Yogyakarta", 'state_id' => 1672),
+            // end::City for Daerah Istimewa Yogyakarta
+
+            // begin::DKI Jakarta
+            array('name' => "Jakarta Barat", 'state_id' => 1673),
+            array('name' => "Jakarta Pusat", 'state_id' => 1673),
+            array('name' => "Jakarta Selatan", 'state_id' => 1673),
+            array('name' => "Jakarta Timur", 'state_id' => 1673),
+            array('name' => "Jakarta Utara", 'state_id' => 1673),
+            array('name' => "Kepulauan Seribu", 'state_id' => 1673),
+            // end::DKI Jakarta
+
+            // begin::City for Gorontalo
+            array('name' => "Kabupaten Boalemo", 'state_id' => 1674),
+            array('name' => "Kabupaten Bone Bolango", 'state_id' => 1674),
+            array('name' => "Kabupaten Gorontalo", 'state_id' => 1674),
+            array('name' => "Kabupaten Gorontalo Utara", 'state_id' => 1674),
+            array('name' => "Kabupaten Pohuwato", 'state_id' => 1674),
+            array('name' => "Kota Gorontalo", 'state_id' => 1674),
+            // end::City for Gorontalo
+
+            // begin::City for Jambi
+            array('name' => "Kabupaten Batanghari", 'state_id' => 1675),
+            array('name' => "Kabupaten Bungo", 'state_id' => 1675),
+            array('name' => "Kabupaten Kerinci", 'state_id' => 1675),
+            array('name' => "Kabupaten Merangin", 'state_id' => 1675),
+            array('name' => "Kabupaten Muaro Jambi", 'state_id' => 1675),
+            array('name' => "Kabupaten Sarolangun", 'state_id' => 1675),
+            array('name' => "Kabupaten Tanjung Jabung Barat", 'state_id' => 1675),
+            array('name' => "Kabupaten Tanjung Jabung Timur", 'state_id' => 1675),
+            array('name' => "Kabupaten Tebo", 'state_id' => 1675),
+            array('name' => "Kota Jambi", 'state_id' => 1675),
+            array('name' => "Kota Sungai Penuh", 'state_id' => 1675),
+            // end::City for Jambi
+            
+            // begin::City for Jawa Barat
+            array('name' => "Kabupaten Bandung", 'state_id' => 1676),
+            array('name' => "Kabupaten Bandung Barat", 'state_id' => 1676),
+            array('name' => "Kabupaten Bekasi", 'state_id' => 1676),
+            array('name' => "Kabupaten Bogor", 'state_id' => 1676),
+            array('name' => "Kabupaten Ciamis", 'state_id' => 1676),
+            array('name' => "Kabupaten Cianjur", 'state_id' => 1676),
+            array('name' => "Kabupaten Cirebon", 'state_id' => 1676),
+            array('name' => "Kabupaten Garut", 'state_id' => 1676),
+            array('name' => "Kabupaten Indramayu", 'state_id' => 1676),
+            array('name' => "Kabupaten Karawang", 'state_id' => 1676),
+            array('name' => "Kabupaten Kuningan", 'state_id' => 1676),
+            array('name' => "Kabupaten Majalengka", 'state_id' => 1676),
+            array('name' => "Kabupaten Pangandaran", 'state_id' => 1676),
+            array('name' => "Kabupaten Purwakarta", 'state_id' => 1676),
+            array('name' => "Kabupaten Subang", 'state_id' => 1676),
+            array('name' => "Kabupaten Sukabumi", 'state_id' => 1676),
+            array('name' => "Kabupaten Sumedang", 'state_id' => 1676),
+            array('name' => "Kabupaten Tasikmalaya", 'state_id' => 1676),
+            array('name' => "Kota Bandung", 'state_id' => 1676),
+            array('name' => "Kota Banjar", 'state_id' => 1676),
+            array('name' => "Kota Bekasi", 'state_id' => 1676),
+            array('name' => "Kota Bogor", 'state_id' => 1676),
+            array('name' => "Kota Cimahi", 'state_id' => 1676),
+            array('name' => "Kota Cirebon", 'state_id' => 1676),
+            array('name' => "Kota Depok", 'state_id' => 1676),
+            array('name' => "Kota Sukabumi", 'state_id' => 1676),
+            array('name' => "Kota Tasikmalaya", 'state_id' => 1676),
+            // end::City for Jawa Barat
+            
+            // begin::City for Jawa Tengah
+            array('name' => "Kabupaten Banjarnegara", 'state_id' => 1677),
+            array('name' => "Kabupaten Banyumas", 'state_id' => 1677),
+            array('name' => "Kabupaten Batang", 'state_id' => 1677),
+            array('name' => "Kabupaten Blora", 'state_id' => 1677),
+            array('name' => "Kabupaten Boyolali", 'state_id' => 1677),
+            array('name' => "Kabupaten Brebes", 'state_id' => 1677),
+            array('name' => "Kabupaten Cilacap", 'state_id' => 1677),
+            array('name' => "Kabupaten Demak", 'state_id' => 1677),
+            array('name' => "Kabupaten Grobogan", 'state_id' => 1677),
+            array('name' => "Kabupaten Jepara", 'state_id' => 1677),
+            array('name' => "Kabupaten Karanganyar", 'state_id' => 1677),
+            array('name' => "Kabupaten Kebumen", 'state_id' => 1677),
+            array('name' => "Kabupaten Kendal", 'state_id' => 1677),
+            array('name' => "Kabupaten Klaten", 'state_id' => 1677),
+            array('name' => "Kabupaten Kudus", 'state_id' => 1677),
+            array('name' => "Kabupaten Magelang", 'state_id' => 1677),
+            array('name' => "Kabupaten Pati", 'state_id' => 1677),
+            array('name' => "Kabupaten Pekalongan", 'state_id' => 1677),
+            array('name' => "Kabupaten Pemalang", 'state_id' => 1677),
+            array('name' => "Kabupaten Purbalingga", 'state_id' => 1677),
+            array('name' => "Kabupaten Purworejo", 'state_id' => 1677),
+            array('name' => "Kabupaten Rembang", 'state_id' => 1677),
+            array('name' => "Kabupaten Semarang", 'state_id' => 1677),
+            array('name' => "Kabupaten Sragen", 'state_id' => 1677),
+            array('name' => "Kabupaten Sukoharjo", 'state_id' => 1677),
+            array('name' => "Kabupaten Tegal", 'state_id' => 1677),
+            array('name' => "Kabupaten Temanggung", 'state_id' => 1677),
+            array('name' => "Kabupaten Wonogiri", 'state_id' => 1677),
+            array('name' => "Kabupaten Wonosobo", 'state_id' => 1677),
+            array('name' => "Kota Magelang", 'state_id' => 1677),
+            array('name' => "Kota Pekalongan", 'state_id' => 1677),
+            array('name' => "Kota Salatiga", 'state_id' => 1677),
+            array('name' => "Kota Semarang", 'state_id' => 1677),
+            array('name' => "Kota Surakarta", 'state_id' => 1677),
+            array('name' => "Kota Tegal", 'state_id' => 1677),
+            // end::City for Jawa Tengah
+
+            // begin::City for Jawa Timur
+            // end::City for Jawa Timur
+
+            // begin::City for Kalimantan Barat
+            // end::City for Kalimantan Barat
+
+            // begin::City for Kalimantan Selatan
+            // end::City for Kalimantan Selatan
+
+            // begin::City for Kalimantan Tengah
+            // end::City for Kalimantan Tengah
+
+            // begin::City for Kalimantan Timur
+            // end::City for Kalimantan Timur
+
+            // begin::City for Kalimantan Utara
+            // end::City for Kalimantan Utara
+
             array('name' => "Kendal", 'state_id' => 1682),
             array('name' => "Bandar Lampung", 'state_id' => 1683),
             array('name' => "Kota Bumi", 'state_id' => 1683),
