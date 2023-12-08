@@ -164,25 +164,29 @@ class StateSeeder extends Seeder
             // begin::State for Country Angola
             array('name' => "Bengo", 'country_id' => 6),
             array('name' => "Benguela", 'country_id' => 6),
-            array('name' => "Bie", 'country_id' => 6),
+            array('name' => "Bié", 'country_id' => 6),
             array('name' => "Cabinda", 'country_id' => 6),
+            array('name' => "Cuando Cubango", 'country_id' => 6),
+            array('name' => "Cuanza Norte", 'country_id' => 6),
+            array('name' => "Cuanza Sul", 'country_id' => 6),
             array('name' => "Cunene", 'country_id' => 6),
             array('name' => "Huambo", 'country_id' => 6),
-            array('name' => "Huila", 'country_id' => 6),
-            array('name' => "Kuando-Kubango", 'country_id' => 6),
-            array('name' => "Kwanza Norte", 'country_id' => 6),
-            array('name' => "Kwanza Sul", 'country_id' => 6),
+            array('name' => "Huíla", 'country_id' => 6),
             array('name' => "Luanda", 'country_id' => 6),
             array('name' => "Lunda Norte", 'country_id' => 6),
             array('name' => "Lunda Sul", 'country_id' => 6),
             array('name' => "Malanje", 'country_id' => 6),
             array('name' => "Moxico", 'country_id' => 6),
             array('name' => "Namibe", 'country_id' => 6),
-            array('name' => "Uige", 'country_id' => 6),
+            array('name' => "Uíge", 'country_id' => 6),
             array('name' => "Zaire", 'country_id' => 6),
             // end::State for Country Angola
 
+            // begin::State for Country Anguilla
             array('name' => "Other Provinces", 'country_id' => 7),
+            // end::State for Country Anguilla
+
+            // begin::State for Country Antarctica
             array('name' => "Sector claimed by Argentina/Ch", 'country_id' => 8),
             array('name' => "Sector claimed by Argentina/UK", 'country_id' => 8),
             array('name' => "Sector claimed by Australia", 'country_id' => 8),
@@ -190,6 +194,9 @@ class StateSeeder extends Seeder
             array('name' => "Sector claimed by New Zealand", 'country_id' => 8),
             array('name' => "Sector claimed by Norway", 'country_id' => 8),
             array('name' => "Unclaimed Sector", 'country_id' => 8),
+            // end::State for Country Antarctica
+
+            // begin::State for Country Antigua And Barbuda
             array('name' => "Barbuda", 'country_id' => 9),
             array('name' => "Saint George", 'country_id' => 9),
             array('name' => "Saint John", 'country_id' => 9),
@@ -197,13 +204,16 @@ class StateSeeder extends Seeder
             array('name' => "Saint Paul", 'country_id' => 9),
             array('name' => "Saint Peter", 'country_id' => 9),
             array('name' => "Saint Philip", 'country_id' => 9),
+            // end::State for Country Antigua And Barbuda
+
+            // begin::State for Country Argentina
+            array('name' => "Autonomous City of Buenos Aires", 'country_id' => 10),
             array('name' => "Buenos Aires", 'country_id' => 10),
             array('name' => "Catamarca", 'country_id' => 10),
             array('name' => "Chaco", 'country_id' => 10),
             array('name' => "Chubut", 'country_id' => 10),
-            array('name' => "Cordoba", 'country_id' => 10),
+            array('name' => "Córdoba", 'country_id' => 10),
             array('name' => "Corrientes", 'country_id' => 10),
-            array('name' => "Distrito Federal", 'country_id' => 10),
             array('name' => "Entre Rios", 'country_id' => 10),
             array('name' => "Formosa", 'country_id' => 10),
             array('name' => "Jujuy", 'country_id' => 10),
@@ -211,7 +221,7 @@ class StateSeeder extends Seeder
             array('name' => "La Rioja", 'country_id' => 10),
             array('name' => "Mendoza", 'country_id' => 10),
             array('name' => "Misiones", 'country_id' => 10),
-            array('name' => "Neuquen", 'country_id' => 10),
+            array('name' => "Neuquén", 'country_id' => 10),
             array('name' => "Rio Negro", 'country_id' => 10),
             array('name' => "Salta", 'country_id' => 10),
             array('name' => "San Juan", 'country_id' => 10),
@@ -221,19 +231,33 @@ class StateSeeder extends Seeder
             array('name' => "Santiago del Estero", 'country_id' => 10),
             array('name' => "Tierra del Fuego", 'country_id' => 10),
             array('name' => "Tucuman", 'country_id' => 10),
+            // end::State for Country Argentina
+
+            // begin::State for Country Armenia
             array('name' => "Aragatsotn", 'country_id' => 11),
             array('name' => "Ararat", 'country_id' => 11),
             array('name' => "Armavir", 'country_id' => 11),
             array('name' => "Gegharkunik", 'country_id' => 11),
-            array('name' => "Kotaik", 'country_id' => 11),
+            array('name' => "Kotayk", 'country_id' => 11),
             array('name' => "Lori", 'country_id' => 11),
             array('name' => "Shirak", 'country_id' => 11),
-            array('name' => "Stepanakert", 'country_id' => 11),
             array('name' => "Syunik", 'country_id' => 11),
             array('name' => "Tavush", 'country_id' => 11),
             array('name' => "Vayots Dzor", 'country_id' => 11),
             array('name' => "Yerevan", 'country_id' => 11),
+            // end::State for Country Armenia
+
+            // begin::State for Country Armenia
             array('name' => "Aruba", 'country_id' => 12),
+            array('name' => "Noord", 'country_id' => 12),
+            array('name' => "Oranjestad", 'country_id' => 12),
+            array('name' => "Paradera", 'country_id' => 12),
+            array('name' => "San Nicolaas", 'country_id' => 12),
+            array('name' => "Santa Cruz", 'country_id' => 12),
+            array('name' => "Savaneta", 'country_id' => 12),
+            // end::State for Country Armenia
+
+            // begin::State for Country Australia
             array('name' => "Auckland", 'country_id' => 13),
             array('name' => "Australian Capital Territory", 'country_id' => 13),
             array('name' => "Balgowlah", 'country_id' => 13),
@@ -266,6 +290,9 @@ class StateSeeder extends Seeder
             array('name' => "Werribee south", 'country_id' => 13),
             array('name' => "Western Australia", 'country_id' => 13),
             array('name' => "Wheeler", 'country_id' => 13),
+            // end::State for Country Australia
+
+            // begin::State for Country Austria
             array('name' => "Bundesland Salzburg", 'country_id' => 14),
             array('name' => "Bundesland Steiermark", 'country_id' => 14),
             array('name' => "Bundesland Tirol", 'country_id' => 14),
@@ -284,6 +311,9 @@ class StateSeeder extends Seeder
             array('name' => "Upper Austria", 'country_id' => 14),
             array('name' => "Vorarlberg", 'country_id' => 14),
             array('name' => "Wien", 'country_id' => 14),
+            // end::State for Country Austria
+
+            // begin::State for Country Azerbaijan
             array('name' => "Abseron", 'country_id' => 15),
             array('name' => "Baki Sahari", 'country_id' => 15),
             array('name' => "Ganca", 'country_id' => 15),
@@ -299,6 +329,8 @@ class StateSeeder extends Seeder
             array('name' => "Saki", 'country_id' => 15),
             array('name' => "Sirvan", 'country_id' => 15),
             array('name' => "Xacmaz", 'country_id' => 15),
+            // end::State for Country Azerbaijan
+
             array('name' => "Abaco", 'country_id' => 16),
             array('name' => "Acklins Island", 'country_id' => 16),
             array('name' => "Andros", 'country_id' => 16),
