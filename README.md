@@ -8,10 +8,10 @@
 
 Laravel World is a complete resource for managing location data in your Laravel applications. This repository provides migrations and seeders for tables related to countries, provinces, cities, districts, and villages. Using this repository, you can easily integrate geographic data structures into your Laravel projects, enabling efficient and structured management of location information.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/muhamdaily/laravel-auth)
-![GitHub contributors](https://img.shields.io/github/contributors/muhamdaily/laravel-auth)
-![GitHub stars](https://img.shields.io/github/stars/muhamdaily/laravel-auth?style=social)
-![GitHub forks](https://img.shields.io/github/forks/muhamdaily/laravel-auth?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/muhamdaily/laravel-world)
+![GitHub contributors](https://img.shields.io/github/contributors/muhamdaily/laravel-world)
+![GitHub stars](https://img.shields.io/github/stars/muhamdaily/laravel-world?style=social)
+![GitHub forks](https://img.shields.io/github/forks/muhamdaily/laravel-world?style=social)
 
 </span>
 
