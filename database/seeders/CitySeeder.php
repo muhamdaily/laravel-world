@@ -21729,8 +21729,22 @@ class CitySeeder extends Seeder
             array('name' => "Kota Banjarbaru", 'state_id' => 1680),
             array('name' => "Kota Banjarmasin", 'state_id' => 1680),
             // end::City for Kalimantan Selatan
-
+            
             // begin::City for Kalimantan Tengah
+            array('name' => "Kabupaten Barito Selatan", 'state_id' => 1681),
+            array('name' => "Kabupaten Barito Timur", 'state_id' => 1681),
+            array('name' => "Kabupaten Barito Utara", 'state_id' => 1681),
+            array('name' => "Kabupaten Gunung Mas", 'state_id' => 1681),
+            array('name' => "Kabupaten Kapuas", 'state_id' => 1681),
+            array('name' => "Kabupaten Katingan", 'state_id' => 1681),
+            array('name' => "Kabupaten Kotawaringin Barat", 'state_id' => 1681),
+            array('name' => "Kabupaten Kotawaringin Timur", 'state_id' => 1681),
+            array('name' => "Kabupaten Lamandau", 'state_id' => 1681),
+            array('name' => "Kabupaten Murung Raya", 'state_id' => 1681),
+            array('name' => "Kabupaten Pulang Pisau", 'state_id' => 1681),
+            array('name' => "Kabupaten Seruyan", 'state_id' => 1681),
+            array('name' => "Kabupaten Sukamara", 'state_id' => 1681),
+            array('name' => "Kota Palangka Raya", 'state_id' => 1681),
             // end::City for Kalimantan Tengah
 
             // begin::City for Kalimantan Timur
