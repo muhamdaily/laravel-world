@@ -21931,26 +21931,54 @@ class CitySeeder extends Seeder
             array('name' => "Kabupaten Pasangkayu", 'state_id' => 1694),
             array('name' => "Kabupaten Polewali Mandar", 'state_id' => 1694),
             // end::City for Sulawesi Barat
-
+            
             // begin::City for Sulawesi Selatan
+            array('name' => "Kabupaten Bantaeng", 'state_id' => 1695),
+            array('name' => "Kabupaten Barru", 'state_id' => 1695),
+            array('name' => "Kabupaten Bone", 'state_id' => 1695),
+            array('name' => "Kabupaten Bulukumba", 'state_id' => 1695),
+            array('name' => "Kabupaten Enrekang", 'state_id' => 1695),
+            array('name' => "Kabupaten Gowa", 'state_id' => 1695),
+            array('name' => "Kabupaten Jeneponto", 'state_id' => 1695),
+            array('name' => "Kabupaten Kepulauan Selayar", 'state_id' => 1695),
+            array('name' => "Kabupaten Luwu", 'state_id' => 1695),
+            array('name' => "Kabupaten Luwu Timur", 'state_id' => 1695),
+            array('name' => "Kabupaten Luwu Utara", 'state_id' => 1695),
+            array('name' => "Kabupaten Maros", 'state_id' => 1695),
+            array('name' => "Kabupaten Pinrang", 'state_id' => 1695),
+            array('name' => "Kabupaten Sidenreng Rappang", 'state_id' => 1695),
+            array('name' => "Kabupaten Sinjai", 'state_id' => 1695),
+            array('name' => "Kabupaten Soppeng", 'state_id' => 1695),
+            array('name' => "Kabupaten Takalar", 'state_id' => 1695),
+            array('name' => "Kabupaten Tana Toraja", 'state_id' => 1695),
+            array('name' => "Kabupaten Wajo", 'state_id' => 1695),
+            array('name' => "Kota Makassar", 'state_id' => 1695),
+            array('name' => "Kota Palopo", 'state_id' => 1695),
+            array('name' => "Kota Parepare", 'state_id' => 1695),
             // end::City for Sulawesi Selatan
 
             // begin::City for Sulawesi Tengah
+            array('name' => "Kota Parepare", 'state_id' => 1696),
             // end::City for Sulawesi Tengah
 
             // begin::City for Sulawesi Tenggara
+            array('name' => "Kota Parepare", 'state_id' => 1697),
             // end::City for Sulawesi Tenggara
-
+            
             // begin::City for Sulawesi Utara
+            array('name' => "Kota Parepare", 'state_id' => 1698),
             // end::City for Sulawesi Utara
-
+            
             // begin::City for Sumatera Barat
+            array('name' => "Kota Parepare", 'state_id' => 1699),
             // end::City for Sumatera Barat
-
+            
             // begin::City for Sumatera Selatan
+            array('name' => "Kota Parepare", 'state_id' => 1700),
             // end::City for Sumatera Selatan
-
+            
             // begin::City for Sumatera Utara
+            array('name' => "Kota Parepare", 'state_id' => 1701),
             // end::City for Sumatera Utara
 
             array('name' => "Amahai", 'state_id' => 1684),

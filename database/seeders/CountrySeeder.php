@@ -30,7 +30,7 @@ class CountrySeeder extends Seeder
             array('id' => 13, 'code' => 'AU', 'name' => "Australia", 'phonecode' => 61),
             array('id' => 14, 'code' => 'AT', 'name' => "Austria", 'phonecode' => 43),
             array('id' => 15, 'code' => 'AZ', 'name' => "Azerbaijan", 'phonecode' => 994),
-            array('id' => 16, 'code' => 'BS', 'name' => "Bahamas The", 'phonecode' => 1242),
+            array('id' => 16, 'code' => 'BS', 'name' => "Bahama", 'phonecode' => 1242),
             array('id' => 17, 'code' => 'BH', 'name' => "Bahrain", 'phonecode' => 973),
             array('id' => 18, 'code' => 'BD', 'name' => "Bangladesh", 'phonecode' => 880),
             array('id' => 19, 'code' => 'BB', 'name' => "Barbados", 'phonecode' => 1246),
