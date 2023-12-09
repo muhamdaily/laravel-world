@@ -21767,6 +21767,82 @@ class CitySeeder extends Seeder
             array('name' => "Kabupaten Tana Tidung", 'state_id' => 1683),
             array('name' => "Kota Tarakan", 'state_id' => 1683),
             // end::City for Kalimantan Utara
+            
+            // begin::City for Kepulauan Riau
+            array('name' => "Kabupaten Bintan", 'state_id' => 1684),
+            array('name' => "Kabupaten Karimun", 'state_id' => 1684),
+            array('name' => "Kabupaten Kepulauan Anambas", 'state_id' => 1684),
+            array('name' => "Kabupaten Lingga", 'state_id' => 1684),
+            array('name' => "Kabupaten Natuna", 'state_id' => 1684),
+            array('name' => "Kota Batam", 'state_id' => 1684),
+            array('name' => "Kota Tanjungpinang", 'state_id' => 1684),
+            // end::City for Kepulauan Riau
+            
+            // begin::City for Lampung
+            array('name' => "Kabupaten Lampung Barat", 'state_id' => 1685),
+            array('name' => "Kabupaten Lampung Selatan", 'state_id' => 1685),
+            array('name' => "Kabupaten Lampung Tengah", 'state_id' => 1685),
+            array('name' => "Kabupaten Lampung Timur", 'state_id' => 1685),
+            array('name' => "Kabupaten Lampung Utara", 'state_id' => 1685),
+            array('name' => "Kabupaten Mesuji", 'state_id' => 1685),
+            array('name' => "Kabupaten Pesawaran", 'state_id' => 1685),
+            array('name' => "Kabupaten Pesisir Barat", 'state_id' => 1685),
+            array('name' => "Kabupaten Pringsewu", 'state_id' => 1685),
+            array('name' => "Kabupaten Tanggamus", 'state_id' => 1685),
+            array('name' => "Kabupaten Tulang Bawang", 'state_id' => 1685),
+            array('name' => "Kabupaten Tulang Bawang Barat", 'state_id' => 1685),
+            array('name' => "Kabupaten Way Kanan", 'state_id' => 1685),
+            array('name' => "Kota Bandar Lampung", 'state_id' => 1685),
+            array('name' => "Kota Metro", 'state_id' => 1685),
+            // end::City for Lampung
+
+            // begin::City for Maluku
+            // end::City for Maluku
+
+            // begin::City for Maluku Utara
+            // end::City for Maluku Utara
+
+            // begin::City for Nanggroe Aceh Darussalam
+            // end::City for Nanggroe Aceh Darussalam
+
+            // begin::City for Nusa Tenggara Barat
+            // end::City for Nusa Tenggara Barat
+
+            // begin::City for Nusa Tenggara Timur
+            // end::City for Nusa Tenggara Timur
+
+            // begin::City for Papua
+            // end::City for Papua
+
+            // begin::City for Papua Barat
+            // end::City for Papua Barat
+
+            // begin::City for Riau
+            // end::City for Riau
+
+            // begin::City for Sulawesi Barat
+            // end::City for Sulawesi Barat
+
+            // begin::City for Sulawesi Selatan
+            // end::City for Sulawesi Selatan
+
+            // begin::City for Sulawesi Tengah
+            // end::City for Sulawesi Tengah
+
+            // begin::City for Sulawesi Tenggara
+            // end::City for Sulawesi Tenggara
+
+            // begin::City for Sulawesi Utara
+            // end::City for Sulawesi Utara
+
+            // begin::City for Sumatera Barat
+            // end::City for Sumatera Barat
+
+            // begin::City for Sumatera Selatan
+            // end::City for Sumatera Selatan
+
+            // begin::City for Sumatera Utara
+            // end::City for Sumatera Utara
 
             array('name' => "Amahai", 'state_id' => 1684),
             array('name' => "Ambon", 'state_id' => 1684),

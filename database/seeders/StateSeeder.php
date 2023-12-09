@@ -1755,10 +1755,6 @@ class StateSeeder extends Seeder
             array('name' => "Nusa Tenggara Timur", 'country_id' => 102),
             array('name' => "Papua", 'country_id' => 102),
             array('name' => "Papua Barat", 'country_id' => 102),
-            array('name' => "Papua Barat Daya", 'country_id' => 102),
-            array('name' => "Papua Pegunungan", 'country_id' => 102),
-            array('name' => "Papua Selatan", 'country_id' => 102),
-            array('name' => "Papua Tengah", 'country_id' => 102),
             array('name' => "Riau", 'country_id' => 102),
             array('name' => "Sulawesi Barat", 'country_id' => 102),
             array('name' => "Sulawesi Selatan", 'country_id' => 102),
@@ -1768,7 +1764,6 @@ class StateSeeder extends Seeder
             array('name' => "Sumatera Barat", 'country_id' => 102),
             array('name' => "Sumatera Selatan", 'country_id' => 102),
             array('name' => "Sumatera Utara", 'country_id' => 102),
-            array('name' => "Solo", 'country_id' => 102),
             // end::State for Country Indonesia
 
             array('name' => "Ardabil", 'country_id' => 103),
