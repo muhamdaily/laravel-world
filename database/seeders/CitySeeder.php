@@ -21897,8 +21897,15 @@ class CitySeeder extends Seeder
             array('name' => "Kabupaten Waropen", 'state_id' => 1691),
             array('name' => "Kota Jayapura", 'state_id' => 1691),
             // end::City for Papua
-
+            
             // begin::City for Papua Barat
+            array('name' => "Kabupaten Fakfak", 'state_id' => 1692),
+            array('name' => "Kabupaten Kaimana", 'state_id' => 1692),
+            array('name' => "Kabupaten Manokwari", 'state_id' => 1692),
+            array('name' => "Kabupaten Manokwari Selatan", 'state_id' => 1692),
+            array('name' => "Kabupaten Pegunungan Arfak", 'state_id' => 1692),
+            array('name' => "Kabupaten Teluk Bintuni", 'state_id' => 1692),
+            array('name' => "Kabupaten Teluk Wondama", 'state_id' => 1692),
             // end::City for Papua Barat
 
             // begin::City for Riau
