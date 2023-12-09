@@ -21887,6 +21887,15 @@ class CitySeeder extends Seeder
             // end::City for Nusa Tenggara Timur
 
             // begin::City for Papua
+            array('name' => "Kabupaten Biak Numfor", 'state_id' => 1691),
+            array('name' => "Kabupaten Jayapura", 'state_id' => 1691),
+            array('name' => "Kabupaten Keerom", 'state_id' => 1691),
+            array('name' => "Kabupaten Kepulauan Yapen", 'state_id' => 1691),
+            array('name' => "Kabupaten Mamberamo Raya", 'state_id' => 1691),
+            array('name' => "Kabupaten Sarmi", 'state_id' => 1691),
+            array('name' => "Kabupaten Supiori", 'state_id' => 1691),
+            array('name' => "Kabupaten Waropen", 'state_id' => 1691),
+            array('name' => "Kota Jayapura", 'state_id' => 1691),
             // end::City for Papua
 
             // begin::City for Papua Barat
