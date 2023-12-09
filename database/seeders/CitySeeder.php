@@ -21795,8 +21795,19 @@ class CitySeeder extends Seeder
             array('name' => "Kota Bandar Lampung", 'state_id' => 1685),
             array('name' => "Kota Metro", 'state_id' => 1685),
             // end::City for Lampung
-
+            
             // begin::City for Maluku
+            array('name' => "Kabupaten Buru", 'state_id' => 1686),
+            array('name' => "Kabupaten Buru Selatan", 'state_id' => 1686),
+            array('name' => "Kabupaten Kepulauan Aru", 'state_id' => 1686),
+            array('name' => "Kabupaten Kepulauan Tanimbar", 'state_id' => 1686),
+            array('name' => "Kabupaten Maluku Barat Daya", 'state_id' => 1686),
+            array('name' => "Kabupaten Maluku Tengah", 'state_id' => 1686),
+            array('name' => "Kabupaten Maluku Tenggara", 'state_id' => 1686),
+            array('name' => "Kabupaten Seram Bagian Barat", 'state_id' => 1686),
+            array('name' => "Kabupaten Seram Bagian Timur", 'state_id' => 1686),
+            array('name' => "Kota Ambon", 'state_id' => 1686),
+            array('name' => "Kota Tual", 'state_id' => 1686),
             // end::City for Maluku
 
             // begin::City for Maluku Utara
