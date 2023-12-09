@@ -21822,11 +21822,43 @@ class CitySeeder extends Seeder
             array('name' => "Kota Ternate", 'state_id' => 1687),
             array('name' => "Kota Tidore Kepulauan", 'state_id' => 1687),
             // end::City for Maluku Utara
-
+            
             // begin::City for Nanggroe Aceh Darussalam
+            array('name' => "Kabupaten Aceh Barat", 'state_id' => 1688),
+            array('name' => "Kabupaten Aceh Barat Daya", 'state_id' => 1688),
+            array('name' => "Kabupaten Aceh Besar", 'state_id' => 1688),
+            array('name' => "Kabupaten Aceh Jaya", 'state_id' => 1688),
+            array('name' => "Kabupaten Aceh Selatan", 'state_id' => 1688),
+            array('name' => "Kabupaten Aceh Singkil", 'state_id' => 1688),
+            array('name' => "Kabupaten Aceh Tamiang", 'state_id' => 1688),
+            array('name' => "Kabupaten Aceh Tengah", 'state_id' => 1688),
+            array('name' => "Kabupaten Aceh Tenggara", 'state_id' => 1688),
+            array('name' => "Kabupaten Aceh Timur", 'state_id' => 1688),
+            array('name' => "Kabupaten Aceh Utara", 'state_id' => 1688),
+            array('name' => "Kabupaten Bener Meriah", 'state_id' => 1688),
+            array('name' => "Kabupaten Bireuen", 'state_id' => 1688),
+            array('name' => "Kabupaten Gayo Lues", 'state_id' => 1688),
+            array('name' => "Kabupaten Nagan Raya", 'state_id' => 1688),
+            array('name' => "Kabupaten Pidie", 'state_id' => 1688),
+            array('name' => "Kabupaten Pidie Jaya", 'state_id' => 1688),
+            array('name' => "Kabupaten Simeulue", 'state_id' => 1688),
+            array('name' => "Kota Banda Aceh", 'state_id' => 1688),
+            array('name' => "Kota Langsa", 'state_id' => 1688),
+            array('name' => "Kota Lhokseumawe", 'state_id' => 1688),
+            array('name' => "Kota Sabang", 'state_id' => 1688),
+            array('name' => "Kota Subulussalam", 'state_id' => 1688),
             // end::City for Nanggroe Aceh Darussalam
-
+            
             // begin::City for Nusa Tenggara Barat
+            array('name' => "Kabupaten Bima", 'state_id' => 1689),
+            array('name' => "Kabupaten Dompu", 'state_id' => 1689),
+            array('name' => "Kabupaten Lombok Barat", 'state_id' => 1689),
+            array('name' => "Kabupaten Lombok Tengah", 'state_id' => 1689),
+            array('name' => "Kabupaten Lombok Timur", 'state_id' => 1689),
+            array('name' => "Kabupaten Lombok Utara", 'state_id' => 1689),
+            array('name' => "Kabupaten Sumbawa", 'state_id' => 1689),
+            array('name' => "Kota Bima", 'state_id' => 1689),
+            array('name' => "Kota Mataram", 'state_id' => 1689),
             // end::City for Nusa Tenggara Barat
 
             // begin::City for Nusa Tenggara Timur
