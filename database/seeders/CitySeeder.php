@@ -21907,8 +21907,20 @@ class CitySeeder extends Seeder
             array('name' => "Kabupaten Teluk Bintuni", 'state_id' => 1692),
             array('name' => "Kabupaten Teluk Wondama", 'state_id' => 1692),
             // end::City for Papua Barat
-
+            
             // begin::City for Riau
+            array('name' => "Kabupaten Bengkalis", 'state_id' => 1693),
+            array('name' => "Kabupaten Indragiri Hilir", 'state_id' => 1693),
+            array('name' => "Kabupaten Indragiri Hulu", 'state_id' => 1693),
+            array('name' => "Kabupaten Kampar", 'state_id' => 1693),
+            array('name' => "Kabupaten Kepulauan Meranti", 'state_id' => 1693),
+            array('name' => "Kabupaten Kuantan Singingi", 'state_id' => 1693),
+            array('name' => "Kabupaten Pelalawan", 'state_id' => 1693),
+            array('name' => "Kabupaten Rokan Hilir", 'state_id' => 1693),
+            array('name' => "Kabupaten Rokan Hulu", 'state_id' => 1693),
+            array('name' => "Kabupaten Siak", 'state_id' => 1693),
+            array('name' => "Kota Dumai", 'state_id' => 1693),
+            array('name' => "Kota Pekanbaru", 'state_id' => 1693),
             // end::City for Riau
 
             // begin::City for Sulawesi Barat
