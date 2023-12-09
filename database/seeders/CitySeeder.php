@@ -21809,8 +21809,18 @@ class CitySeeder extends Seeder
             array('name' => "Kota Ambon", 'state_id' => 1686),
             array('name' => "Kota Tual", 'state_id' => 1686),
             // end::City for Maluku
-
+            
             // begin::City for Maluku Utara
+            array('name' => "Kabupaten Halmahera Barat", 'state_id' => 1687),
+            array('name' => "Kabupaten Halmahera Selatan", 'state_id' => 1687),
+            array('name' => "Kabupaten Halmahera Tengah", 'state_id' => 1687),
+            array('name' => "Kabupaten Halmahera Timur", 'state_id' => 1687),
+            array('name' => "Kabupaten Halmahera Utara", 'state_id' => 1687),
+            array('name' => "Kepulauan Sula", 'state_id' => 1687),
+            array('name' => "Kabupaten Pulau Morotai", 'state_id' => 1687),
+            array('name' => "Kabupaten Pulau Taliabu", 'state_id' => 1687),
+            array('name' => "Kota Ternate", 'state_id' => 1687),
+            array('name' => "Kota Tidore Kepulauan", 'state_id' => 1687),
             // end::City for Maluku Utara
 
             // begin::City for Nanggroe Aceh Darussalam
