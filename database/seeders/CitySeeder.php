@@ -21860,8 +21860,30 @@ class CitySeeder extends Seeder
             array('name' => "Kota Bima", 'state_id' => 1689),
             array('name' => "Kota Mataram", 'state_id' => 1689),
             // end::City for Nusa Tenggara Barat
-
+            
             // begin::City for Nusa Tenggara Timur
+            array('name' => "Kabupaten Alor", 'state_id' => 1690),
+            array('name' => "Kabupaten Belu", 'state_id' => 1690),
+            array('name' => "Kabupaten Ende", 'state_id' => 1690),
+            array('name' => "Kabupaten Flores Timur", 'state_id' => 1690),
+            array('name' => "Kabupaten Kupang", 'state_id' => 1690),
+            array('name' => "Kabupaten Lembata", 'state_id' => 1690),
+            array('name' => "Kabupaten Malaka", 'state_id' => 1690),
+            array('name' => "Kabupaten Manggarai", 'state_id' => 1690),
+            array('name' => "Kabupaten Manggarai Barat", 'state_id' => 1690),
+            array('name' => "Kabupaten Manggarai Timur", 'state_id' => 1690),
+            array('name' => "Kabupaten Nagekeo", 'state_id' => 1690),
+            array('name' => "Kabupaten Ngada", 'state_id' => 1690),
+            array('name' => "Kabupaten Rote Ndao", 'state_id' => 1690),
+            array('name' => "Kabupaten Sabu Raijua", 'state_id' => 1690),
+            array('name' => "Kabupaten Sikka", 'state_id' => 1690),
+            array('name' => "Kabupaten Sumba Barat", 'state_id' => 1690),
+            array('name' => "Kabupaten Sumba Barat Daya", 'state_id' => 1690),
+            array('name' => "Kabupaten Sumba Tengah", 'state_id' => 1690),
+            array('name' => "Kabupaten Sumba Timur", 'state_id' => 1690),
+            array('name' => "Kabupaten Timor Tengah Selatan", 'state_id' => 1690),
+            array('name' => "Kabupaten Timor Tengah Utara", 'state_id' => 1690),
+            array('name' => "Kota Kupang", 'state_id' => 1690),
             // end::City for Nusa Tenggara Timur
 
             // begin::City for Papua
