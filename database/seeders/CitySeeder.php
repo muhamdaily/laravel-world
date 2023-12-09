@@ -21655,14 +21655,79 @@ class CitySeeder extends Seeder
             array('name' => "Kota Surakarta", 'state_id' => 1677),
             array('name' => "Kota Tegal", 'state_id' => 1677),
             // end::City for Jawa Tengah
-
+            
             // begin::City for Jawa Timur
+            array('name' => "Kabupaten Bangkalan", 'state_id' => 1678),
+            array('name' => "Kabupaten Banyuwangi", 'state_id' => 1678),
+            array('name' => "Kabupaten Blitar", 'state_id' => 1678),
+            array('name' => "Kabupaten Bojonegoro", 'state_id' => 1678),
+            array('name' => "Kabupaten Bondowoso", 'state_id' => 1678),
+            array('name' => "Kabupaten Gresik", 'state_id' => 1678),
+            array('name' => "Kabupaten Jember", 'state_id' => 1678),
+            array('name' => "Kabupaten Jombang", 'state_id' => 1678),
+            array('name' => "Kabupaten Kediri", 'state_id' => 1678),
+            array('name' => "Kabupaten Lamongan", 'state_id' => 1678),
+            array('name' => "Kabupaten Lumajang", 'state_id' => 1678),
+            array('name' => "Kabupaten Madiun", 'state_id' => 1678),
+            array('name' => "Kabupaten Magetan", 'state_id' => 1678),
+            array('name' => "Kabupaten Malang", 'state_id' => 1678),
+            array('name' => "Kabupaten Mojokerto", 'state_id' => 1678),
+            array('name' => "Kabupaten Nganjuk", 'state_id' => 1678),
+            array('name' => "Kabupaten Ngawi", 'state_id' => 1678),
+            array('name' => "Kabupaten Pacitan", 'state_id' => 1678),
+            array('name' => "Kabupaten Pamekasan", 'state_id' => 1678),
+            array('name' => "Kabupaten Bangil", 'state_id' => 1678),
+            array('name' => "Kabupaten Ponorogo", 'state_id' => 1678),
+            array('name' => "Kabupaten Probolinggo", 'state_id' => 1678),
+            array('name' => "Kabupaten Sampang", 'state_id' => 1678),
+            array('name' => "Kabupaten Sidoarjo", 'state_id' => 1678),
+            array('name' => "Kabupaten Situbondo", 'state_id' => 1678),
+            array('name' => "Kabupaten Sumenep", 'state_id' => 1678),
+            array('name' => "Kabupaten Trenggalek", 'state_id' => 1678),
+            array('name' => "Kabupaten Tuban", 'state_id' => 1678),
+            array('name' => "Kabupaten Tulungagung", 'state_id' => 1678),
+            array('name' => "Kota Batu", 'state_id' => 1678),
+            array('name' => "Kota Blitar", 'state_id' => 1678),
+            array('name' => "Kota Kediri", 'state_id' => 1678),
+            array('name' => "Kota Madiun", 'state_id' => 1678),
+            array('name' => "Kota Malang", 'state_id' => 1678),
+            array('name' => "Kota Mojokerto", 'state_id' => 1678),
+            array('name' => "Kota Pasuruan", 'state_id' => 1678),
+            array('name' => "Kota Probolinggo", 'state_id' => 1678),
+            array('name' => "Kota Surabaya", 'state_id' => 1678),
             // end::City for Jawa Timur
-
+            
             // begin::City for Kalimantan Barat
+            array('name' => "Kabupaten Bengkayang", 'state_id' => 1679),
+            array('name' => "Kabupaten Kapuas Hulu", 'state_id' => 1679),
+            array('name' => "Kabupaten Kayong Utara", 'state_id' => 1679),
+            array('name' => "Kabupaten Ketapang", 'state_id' => 1679),
+            array('name' => "Kabupaten Kubu Raya", 'state_id' => 1679),
+            array('name' => "Kabupaten Landak", 'state_id' => 1679),
+            array('name' => "Kabupaten Melawi", 'state_id' => 1679),
+            array('name' => "Kabupaten Mempawah", 'state_id' => 1679),
+            array('name' => "Kabupaten Sambas", 'state_id' => 1679),
+            array('name' => "Kabupaten Sanggau", 'state_id' => 1679),
+            array('name' => "Kabupaten Sekadau", 'state_id' => 1679),
+            array('name' => "Kabupaten Sintang", 'state_id' => 1679),
+            array('name' => "Kota Pontianak", 'state_id' => 1679),
+            array('name' => "Kota Singkawang", 'state_id' => 1679),
             // end::City for Kalimantan Barat
-
+            
             // begin::City for Kalimantan Selatan
+            array('name' => "Kabupaten Balangan", 'state_id' => 1680),
+            array('name' => "Kabupaten Banjar", 'state_id' => 1680),
+            array('name' => "Kabupaten Barito Kuala", 'state_id' => 1680),
+            array('name' => "Kabupaten Hulu Sungai Selatan", 'state_id' => 1680),
+            array('name' => "Kabupaten Hulu Sungai Tengah", 'state_id' => 1680),
+            array('name' => "Kabupaten Hulu Sungai Utara", 'state_id' => 1680),
+            array('name' => "Kabupaten Kotabaru", 'state_id' => 1680),
+            array('name' => "Kabupaten Tabalong", 'state_id' => 1680),
+            array('name' => "Kabupaten Tanah Bumbu", 'state_id' => 1680),
+            array('name' => "Kabupaten Tanah Laut", 'state_id' => 1680),
+            array('name' => "Kabupaten Tapin", 'state_id' => 1680),
+            array('name' => "Kota Banjarbaru", 'state_id' => 1680),
+            array('name' => "Kota Banjarmasin", 'state_id' => 1680),
             // end::City for Kalimantan Selatan
 
             // begin::City for Kalimantan Tengah
