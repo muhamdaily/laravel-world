@@ -21761,14 +21761,13 @@ class CitySeeder extends Seeder
             // end::City for Kalimantan Timur
 
             // begin::City for Kalimantan Utara
+            array('name' => "Kabupaten Bulungan", 'state_id' => 1683),
+            array('name' => "Kabupaten Malinau", 'state_id' => 1683),
+            array('name' => "Kabupaten Nunukan", 'state_id' => 1683),
+            array('name' => "Kabupaten Tana Tidung", 'state_id' => 1683),
+            array('name' => "Kota Tarakan", 'state_id' => 1683),
             // end::City for Kalimantan Utara
 
-            array('name' => "Kendal", 'state_id' => 1682),
-            array('name' => "Bandar Lampung", 'state_id' => 1683),
-            array('name' => "Kota Bumi", 'state_id' => 1683),
-            array('name' => "Metro", 'state_id' => 1683),
-            array('name' => "Pringsewu", 'state_id' => 1683),
-            array('name' => "Terbanggi Besar", 'state_id' => 1683),
             array('name' => "Amahai", 'state_id' => 1684),
             array('name' => "Ambon", 'state_id' => 1684),
             array('name' => "Tual", 'state_id' => 1684),
