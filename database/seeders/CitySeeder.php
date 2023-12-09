@@ -21922,8 +21922,14 @@ class CitySeeder extends Seeder
             array('name' => "Kota Dumai", 'state_id' => 1693),
             array('name' => "Kota Pekanbaru", 'state_id' => 1693),
             // end::City for Riau
-
+            
             // begin::City for Sulawesi Barat
+            array('name' => "Kabupaten Majene", 'state_id' => 1694),
+            array('name' => "Kabupaten Mamasa", 'state_id' => 1694),
+            array('name' => "Kabupaten Mamuju", 'state_id' => 1694),
+            array('name' => "Kabupaten Mamuju Tengah", 'state_id' => 1694),
+            array('name' => "Kabupaten Pasangkayu", 'state_id' => 1694),
+            array('name' => "Kabupaten Polewali Mandar", 'state_id' => 1694),
             // end::City for Sulawesi Barat
 
             // begin::City for Sulawesi Selatan
