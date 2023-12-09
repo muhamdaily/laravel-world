@@ -21746,8 +21746,18 @@ class CitySeeder extends Seeder
             array('name' => "Kabupaten Sukamara", 'state_id' => 1681),
             array('name' => "Kota Palangka Raya", 'state_id' => 1681),
             // end::City for Kalimantan Tengah
-
+            
             // begin::City for Kalimantan Timur
+            array('name' => "Kabupaten Berau", 'state_id' => 1682),
+            array('name' => "Kabupaten Kutai Barat", 'state_id' => 1682),
+            array('name' => "Kabupaten Kutai Kartanegara", 'state_id' => 1682),
+            array('name' => "Kabupaten Kutai Timur", 'state_id' => 1682),
+            array('name' => "Kabupaten Mahakam Ulu", 'state_id' => 1682),
+            array('name' => "Kabupaten Paser", 'state_id' => 1682),
+            array('name' => "Kabupaten Penajam Paser Utara", 'state_id' => 1682),
+            array('name' => "Kota Balikpapan", 'state_id' => 1682),
+            array('name' => "Kota Bontang", 'state_id' => 1682),
+            array('name' => "Kota Samarinda", 'state_id' => 1682),
             // end::City for Kalimantan Timur
 
             // begin::City for Kalimantan Utara
