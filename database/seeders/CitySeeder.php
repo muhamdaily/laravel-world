@@ -21958,7 +21958,19 @@ class CitySeeder extends Seeder
             // end::City for Sulawesi Selatan
 
             // begin::City for Sulawesi Tengah
-            array('name' => "Kota Parepare", 'state_id' => 1696),
+            array('name' => "Kabupaten Banggai", 'state_id' => 1696),
+            array('name' => "Kabupaten Banggai Kepulauan", 'state_id' => 1696),
+            array('name' => "Kabupaten Banggai Laut", 'state_id' => 1696),
+            array('name' => "Kabupaten Buol", 'state_id' => 1696),
+            array('name' => "Kabupaten Donggala", 'state_id' => 1696),
+            array('name' => "Kabupaten Morowali", 'state_id' => 1696),
+            array('name' => "Kabupaten Morowali Utara", 'state_id' => 1696),
+            array('name' => "Kabupaten Parigi Moutong", 'state_id' => 1696),
+            array('name' => "Kabupaten Poso", 'state_id' => 1696),
+            array('name' => "Kabupaten Sigi", 'state_id' => 1696),
+            array('name' => "Kabupaten Tojo Una-Una", 'state_id' => 1696),
+            array('name' => "Kabupaten Tolitoli", 'state_id' => 1696),
+            array('name' => "Kota Palu", 'state_id' => 1696),
             // end::City for Sulawesi Tengah
 
             // begin::City for Sulawesi Tenggara
