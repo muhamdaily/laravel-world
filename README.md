@@ -6,7 +6,7 @@
 
 <span align="center">
 
-Laravel World is a complete resource for managing location data in your Laravel applications. This repository provides migrations and seeders for tables related to countries, provinces, cities, districts, and villages. Using this repository, you can easily integrate geographic data structures into your Laravel projects, enabling efficient and structured management of location information.
+Laravel World is a complete resource for managing location data in your Laravel applications. This repository provides migrations and seeders for tables related to countries, provinces, cities, districts, villages and postal codes. Using this repository, you can easily integrate geographic data structures into your Laravel projects, enabling efficient and structured management of location information.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/muhamdaily/laravel-world)
 ![GitHub contributors](https://img.shields.io/github/contributors/muhamdaily/laravel-world)
@@ -24,7 +24,7 @@ Personally, I've often felt overwhelmed, particularly when tasked with creating 
 It is important to note that this is not a stand-alone package, but instead contains migration and seeder files for countries, states, cities, districts and villages. You are free to use standard Laravel relationships and code in your projects as needed.
 
 ## Features
-* Migrations and Seeders for Country, State, City, District, and Village Tables.
+* Migrations and Seeders for Country, State, City, District, Village, and Postal Codes Tables.
 * Comprehensive and accurate data to establish a strong foundation for location management.
 * Easily integrable into existing Laravel projects.
 * Expandable data structure to meet the specific needs of your project.
@@ -57,6 +57,7 @@ public function run(): void
     $this->call(CitySeeder::class);
     $this->call(DistrictSeeder::class);
     $this->call(VillageSeeder::class);
+    $this->call(PostalCodeSeeder::class);
 }
 ```
 
